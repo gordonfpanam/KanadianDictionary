@@ -5,8 +5,9 @@ https://github.com/KSP-Localization/SwitchLanguage
 
 There are also some flags for kerbalized Canadian entities, and agencies for many of these flags. Thrimm Aerospace is also represented here courtesy of Mark Thrimm and his excellent single-stage-to-orbit aircraft examples.
 
-Licensed CC-BY-SA-4.0. Includes parodies of real life companies; no representation of these companies is intended.
+Licensed CC-BY-SA-4.0. Includes parodies of real life companies; no representation of these companies is intended. SwitchLanguage included from KSP Localization Project, MIT License.
 
 Installation instructions:
 
-First install SwitchLanguage into your game's GameData folder, then copy the contents of this repository there. Overwrite the settings.cfg from SwitchLanguage with this one. Verify that en-ca is the localization chosen on the KSP main menu screen.
+Copy the contents of KanadianDictionary and SwitchLanguage to your GameData folder.
+If some Canadian strings don't appear, include Module Manager and restart KSP once or twice.
